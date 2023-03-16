@@ -33,6 +33,7 @@
    33  usermod -aG devops raham
    34  groupadd devops
    35  id raham
+   added
    36  userdel raham
    37  touch file1
    38  cat>file1
